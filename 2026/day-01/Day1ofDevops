@@ -1,0 +1,53 @@
+# 90 Days DevOps Learning Plan – Ayush Kumar Rai
+
+## Current Level
+I am an Open Source Contributor and Freelancer with hands-on experience in DevOps, Cloud (AWS), CI/CD pipelines, containerization, and infrastructure automation. I have a B.Tech background in Information Technology and practical exposure to real-world deployment workflows using Jenkins, Docker, Kubernetes, Terraform, and Git. My focus is not just learning tools, but building deep understanding and real production-level skills.
+
+## My Understanding of DevOps & Cloud Engineering
+DevOps is a mindset and engineering discipline that combines automation, collaboration, reliability, and continuous improvement to deliver high-quality software systems.  
+Cloud Engineering enables scalable, resilient, and globally accessible infrastructure that powers modern applications and distributed systems.
+
+## Why I Am Starting DevOps & Cloud
+I am learning DevOps and Cloud not only to build a career, but to become highly skilled and professional in this field. I genuinely enjoy understanding how real production systems work, how SRE and DevOps teams manage deployments, monitor infrastructure, handle traffic loads, and ensure system reliability.
+
+I am deeply interested in how networks distribute load across servers, how cloud platforms automatically scale infrastructure, and how automation makes large systems stable and efficient. My long-term goal is to gain mastery in DevOps practices so that I can not only implement them professionally but also teach, guide, and help others understand DevOps concepts clearly. I want to contribute back to the DevOps community by sharing knowledge, supporting beginners, and improving open-source projects.
+
+## Where I Want To Reach (90-Day Target)
+Within 90 days, I want to build a strong foundation in real-world DevOps practices and become capable of designing, deploying, monitoring, and managing cloud-native applications using production-level workflows.
+
+## My 3 Core Goals (Next 90 Days)
+1. Deploy and manage a production-style application on AWS using Docker, Kubernetes, and automated CI/CD pipelines  
+2. Build a complete CI/CD workflow using Jenkins and GitHub with proper testing and deployment stages  
+3. Provision and manage cloud infrastructure using Terraform following Infrastructure as Code best practices  
+
+## 3 Core DevOps Skills I Will Build
+- Linux System Administration and Production Troubleshooting  
+- CI/CD Automation and Pipeline Engineering  
+- Kubernetes Deployment, Scaling, Monitoring, and Debugging  
+
+## Weekly Time Commitment
+- Weekdays: 2–3 hours per day  
+- Weekends: 5–6 hours per day  
+Total Weekly Commitment: ~20+ hours  
+
+## How I Will Stay Consistent
+- Follow the #90DaysOfDevOps roadmap strictly  
+- Practice daily hands-on labs and real projects  
+- Contribute regularly to open-source repositories  
+- Share DevOps learnings publicly to help others  
+- Maintain daily GitHub activity  
+- Review and improve weak areas every week  
+
+## Discipline Rules
+- No zero-day policy (minimum daily learning commitment)  
+- Focus on understanding concepts deeply, not memorizing tools  
+- Prefer real implementation over theory  
+- Track progress weekly  
+- Stay consistent even on low-motivation days  
+
+## Final Commitment
+For the next 90 days, I commit to learning DevOps and Cloud with discipline, passion, and long-term vision. My objective is not short-term results, but continuous improvement, mastery of DevOps practices, and contributing positively to the DevOps community by teaching, sharing knowledge, and helping others grow.
+
+---  
+Author: Ayush Kumar Rai  
+Start Date: Day 01 – #90DaysOfDevOps  
